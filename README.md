@@ -1,8 +1,6 @@
 ## Hi there 👋
  Name: **Brian**
 
- I am currently working on saving the world from nuclear annihilation. I will edit this text later. Feel free to contact me whenever pigs fly.
-
 <!--
 **PrepDrinksRamen/PrepDrinksRamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
